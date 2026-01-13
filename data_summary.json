@@ -1,0 +1,48 @@
+{
+  "total_events": 100000,
+  "unique_users": 8000,
+  "cities": [
+    "Miami",
+    "New York",
+    "Seattle",
+    "Austin",
+    "Houston",
+    "Los Angeles",
+    "Chicago",
+    "Dallas",
+    "San Antonio",
+    "San Diego",
+    "San Jose",
+    "Boston",
+    "Phoenix",
+    "Denver",
+    "Philadelphia"
+  ],
+  "date_range": {
+    "start": "2024-01-01T00:10:36",
+    "end": "2024-12-30T23:55:33"
+  },
+  "event_types": {
+    "search": 39992,
+    "navigation": 29919,
+    "place_view": 19987,
+    "share_location": 10102
+  },
+  "events_by_city": {
+    "Miami": 13184,
+    "New York": 9766,
+    "Los Angeles": 8429,
+    "Chicago": 8261,
+    "Houston": 7231,
+    "Boston": 6240,
+    "Philadelphia": 6217,
+    "Phoenix": 5872,
+    "San Jose": 5437,
+    "Seattle": 5069,
+    "Denver": 4941,
+    "San Antonio": 4886,
+    "Austin": 4868,
+    "San Diego": 4833,
+    "Dallas": 4766
+  }
+}
