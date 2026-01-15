@@ -1,0 +1,13 @@
+{
+  "total_hexagons": 500,
+  "total_hotspots": 20,
+  "avg_event_density": 18.80502703370641,
+  "max_event_density": 871.2669306874612,
+  "cities_analyzed": [
+    "Chicago",
+    "San Francisco",
+    "Seattle",
+    "Los Angeles",
+    "New York"
+  ]
+}
