@@ -13,7 +13,7 @@ This platform showcases:
 
 ## 🚀 Live Demo
 
-**[🌐 View Live Dashboard](https://your-app-name.onrender.com)** ← *Deploy and add your URL here*
+**[🌐 View Live Dashboard](https://urban-analytics-70an.onrender.com)**
 
 > **Note**: The dashboard features 100K+ events across 15 major US cities with real-time filtering and modern UI animations.
 
@@ -335,9 +335,9 @@ This project is open source and available under the MIT License.
 
 ## 👤 About
 
-**Created by**: [Your Name]  
-**GitHub**: [@yourusername](https://github.com/yourusername)  
-**LinkedIn**: [Connect with me](https://linkedin.com/in/yourprofile)  
+**Created by**: Vaibhav Sathe
+**GitHub**: [@yourusername](https://github.com/VaibhavAG-02)  
+**LinkedIn**: [Connect with me](https://www.linkedin.com/in/vaibhav-sathe-115507194/)  
 **Portfolio**: [View more projects](https://yourportfolio.com)
 
 > *Built to demonstrate advanced geospatial analytics and data engineering capabilities for Maps and Location Intelligence roles*
