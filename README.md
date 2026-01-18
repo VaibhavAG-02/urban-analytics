@@ -336,7 +336,7 @@ This project is open source and available under the MIT License.
 ## 👤 About
 
 **Created by**: Vaibhav Sathe
-**GitHub**: [@yourusername](https://github.com/VaibhavAG-02)  
+**GitHub**: [@VaibhavAG-02](https://github.com/VaibhavAG-02)  
 **LinkedIn**: [Connect with me](https://www.linkedin.com/in/vaibhav-sathe-115507194/)  
 **Portfolio**: [View more projects](https://yourportfolio.com)
 
