@@ -2,25 +2,27 @@
 Location-Based User Behavior Analysis Dashboard
 Interactive Streamlit app with geospatial analytics and visualizations
 """
-
 import streamlit as st
 import pandas as pd
 import geopandas as gpd
-import plotly.express as px
-import plotly.graph_objects as go
 import folium
 from streamlit_folium import st_folium
+import plotly.express as px
+import plotly.graph_objects as go
 from datetime import datetime
 import json
-from pathlib import Path
-import duckdb
+import os
+import sys
+
+# Set working directory to script location
+script_dir = os.path.dirname(os.path.abspath(__file__))
+os.chdir(script_dir)
 
 # Page config
 st.set_page_config(
-    page_title="Location Analytics Dashboard",
+    page_title="Urban Analytics Platform",
     page_icon="🗺️",
-    layout="wide",
-    initial_sidebar_state="expanded"
+    layout="wide"
 )
 
 # Custom CSS with modern effects
