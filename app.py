@@ -13,6 +13,7 @@ from datetime import datetime
 import json
 import os
 import sys
+from pathlib import Path
 
 # Set working directory to script location
 script_dir = os.path.dirname(os.path.abspath(__file__))
